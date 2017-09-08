@@ -2,8 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*py~
 
 # data
+*.json
 
 # logs, records
 *.log
